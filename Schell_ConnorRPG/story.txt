@@ -1,0 +1,20 @@
+You wake up at the entrance of an ancient jungle temple. Two tunnels lie ahead. | 1 2 3
+You take the left tunnel, dimly lit by glowing moss. | 2 4 5
+You take the right tunnel, emitting from the tunnel are strange whispers. | 3 6 7
+You stumble upon a wall puzzle containing ancient symbols. | 4 8 9
+You come across a rope bridge suspended across a deep pit. | 5 10 11
+You find a staircase that leads underground. | 6 12 13
+You come face to face with a statue speaking in riddles. | 7 14 15
+You solve the puzzle and a hidden door opens. | 8 16 -1
+The puzzle bests you and the floor collapses beneath you. | 9 -1 -1
+You make your way across the rope bridge. | 10 17 -1
+OH NO! You stepped on a broken plank and into the pit you went. | 11 -1 -1
+You make your way into a chamber filled with magical crystals. | 12 18 -1
+You slip and fall into a pit. | 13 -1 -1
+You successfully answered the riddle. | 14 19 -1
+The statue is offended at your stupidity and you get cursed. | 15 -1 -1
+You find the hidden treasure. | 16 -1 -1
+You discover an ancient treasure map hidden within the temple. | 17 -1 -1
+Curiosity got to you and you touched a crystal, POOF, you were teleported back outside. | 18 -1 -1
+CONGRATULATION!!! You found the Lost Artifact of the Temple. | -1 -1
+
